@@ -34,10 +34,19 @@
 | 31 | 9.000  | 5.000  | 2.000  | 14.000 | 2.000 | 8.000  | 40.000 | 1.538.000 |
 | 32 | 6.000  | 12.000 | 8.000  | 13.000 | 4.000 | 9.000  | 52.000 | 1.590.000 |
 
-### Sumbangan Tinkat RA & Paud
+### Sumbangan Tingkat RA & Paud
 | NO | URAIAN        | JUMLAH  | TOTAL   |
 |----|---------------|---------|---------|
 | 1  | Paud 5x30.000 | 150.000 | 150.000 |
 | 2  | RA 17x30.000  | 510.000 | 660.000 |
 
 ### Sumbangan Lainnya
+| NO | NAMA         | J. SUMBANGAN | KET   |
+|----|--------------|--------------|-------|
+| 1  | Faizul Amali | 100.000      | Sudah |
+
+### Laporan Keuangan
+| TANGGAL           | URAIAN                 | DEBIT     | KREDIT | SALDO     |
+|-------------------|------------------------|-----------|--------|-----------|
+| Sabtu, 10-10-2020 | Sumbangan Tingkat MI   | 1.590.000 |        | 1.590.000 |
+| Sabtu, 10-10-2020 | Sumbangan Faizul Amali | 100.000   |        | 1.690.000 |
