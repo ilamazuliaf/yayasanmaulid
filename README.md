@@ -37,16 +37,53 @@
 ### Sumbangan Tingkat RA & Paud
 | NO | URAIAN        | JUMLAH  | TOTAL   |
 |----|---------------|---------|---------|
-| 1  | Paud 5x30.000 | 150.000 | 150.000 |
-| 2  | RA 17x30.000  | 510.000 | 660.000 |
+| 1  | Paud 4x30.000 | 120.000 | 120.000 |
+| 2  | RA 17x30.000  | 510.000 | 630.000 |
 
 ### Sumbangan Lainnya
 | NO | NAMA         | J. SUMBANGAN | KET   |
 |----|--------------|--------------|-------|
 | 1  | Faizul Amali | 100.000      | Sudah |
+| 2  | Mosleh       | 200.000      | Sudah |
+| 3  | B. Sut       | 250.000      | Sudah |
+| 4  | P. Kom       | 50.000       | Sudah |
+| 5  | Abd. Said    | 50.000       | Sudah |
+| 6  | Suwalis      | 50.000       | Sudah |
+| 7  | Abd. Rahem   | 50.000       | Sudah |
+| 8  | Komariyah    | 125.000      | Sudah |
+| 9  | Uti          | 125.000      | Sudah |
 
 ### Laporan Keuangan
-| TANGGAL           | URAIAN                 | DEBIT     | KREDIT | SALDO     |
-|-------------------|------------------------|-----------|--------|-----------|
-| Sabtu, 10-10-2020 | Sumbangan Tingkat MI   | 1.590.000 |        | 1.590.000 |
-| Sabtu, 10-10-2020 | Sumbangan Faizul Amali | 100.000   |        | 1.690.000 |
+| TANGGAL            | URAIAN                  | DEBIT     | KREDIT  | SALDO     |
+|--------------------|-------------------------|-----------|---------|-----------|
+| Sabtu, 10-10-2020  | Uang Tingkat MI         | 1.590.000 |         | 1.590.000 |
+| Sabtu, 10-10-2020  | Sumbangan               | 750.000   |         | 2.340.000 |
+| Minggu, 25-10-2020 | Pentas                  |           | 250.000 | 2.090.000 |
+| Minggu, 25-10-2020 | Surya 12                |           | 340.000 | 1.750.000 |
+| Minggu, 25-10-2020 | Sewa Kursi              |           | 150.000 | 1.600.000 |
+| Minggu, 25-10-2020 | Cetak Banner            |           | 200.000 | 1.400.000 |
+| Minggu, 25-10-2020 | Foto Copy               |           | 10.000  | 1.390.000 |
+| Minggu, 25-10-2020 | Teh Rio                 |           | 160.000 | 1.230.000 |
+| Minggu, 25-10-2020 | Teh Pucuk               |           | 165.000 | 1.065.000 |
+| Minggu, 25-10-2020 | Air Opera               |           | 39.000  | 1.026.000 |
+| Minggu, 25-10-2020 | Sumbangan Komariyah     | 125.000   |         | 1.151.000 |
+| Minggu, 25-10-2020 | Sumbangan Uti           | 125.000   |         | 1.276.000 |
+| Minggu, 25-10-2020 | Uang Paud&RA            | 630.000   |         | 1.906.000 |
+| Minggu, 25-10-2020 | Bak Asaan & Talam Buah  |           | 20.000  | 1.886.000 |
+| Minggu, 25-10-2020 | Bak Asaan               |           | 25.000  | 1.861.000 |
+| Minggu, 25-10-2020 | Kok Sapeh               |           | 125.000 | 1.736.000 |
+| Minggu, 25-10-2020 | Buah                    |           | 110.000 | 1.626.000 |
+| Minggu, 25-10-2020 | Kok Ajem & Tolang Rosok |           | 105.000 | 1.521.000 |
+| Minggu, 25-10-2020 | Somangka & Jejen        |           | 76.000  | 1.445.000 |
+| Minggu, 25-10-2020 | Plastik                 |           | 12.000  | 1.433.000 |
+| Minggu, 25-10-2020 | Jejen Wali Murid        |           | 200.000 | 1.233.000 |
+| Senin, 26-10-2020  | Snack Nyaih             |           | 100.000 | 1.133.000 |
+| Senin, 26-10-2020  | Salim Qorik             |           | 150.000 | 983.000   |
+| Senin, 26-10-2020  | Salim Nyaih             |           | 600.000 | 383.000   |
+| Senin, 26-10-2020  | Kacang                  |           | 17.000  | 366.000   |
+| Senin, 26-10-2020  | Teh Pucuk               |           | 6.000   | 360.000   |
+| Senin, 26-10-2020  | Ongkos Terop            |           | 50.000  | 310.000   |
+| Senin, 26-10-2020  | Tisu                    |           | 16.000  | 294.000   |
+| Senin, 26-10-2020  | Kacang                  |           | 11.000  | 283.000   |
+| Senin, 26-10-2020  | Aqua Asli               |           | 6.000   | 277.000   |
+| Senin, 26-10-2020  | Juah Teh Rio            | 34.000    |         | 311.000   |
